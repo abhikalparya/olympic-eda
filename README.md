@@ -1,4 +1,4 @@
-# 🏆120-Years Olympics Dataset: Exploratory Data Analysis 
+# 🏆120 Years Olympics Dataset: Exploratory Data Analysis 
 ![](https://media.giphy.com/media/KzBj3pPcpFn8WtluYY/giphy.gif)
 
 ## 🏅About The Project
