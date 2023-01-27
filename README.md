@@ -32,4 +32,3 @@ While the **attribute** consists of various inputs as follows (to name a few):
 - Team - Team name
 - Medal- Gold, Silver, Bronze
 
----
